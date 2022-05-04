@@ -1,6 +1,3 @@
-setwd("C:/Users/juans/Desktop/Proyecto Dashboard boletin salud/Boletin_salud")
-
-
 library(readxl)
 library(shiny)
 library(leaflet)
